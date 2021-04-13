@@ -1,0 +1,20 @@
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\bin\Debug\cubik.exe.config
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\bin\Debug\cubik.exe
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\bin\Debug\cubik.pdb
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.csprojAssemblyReference.cache
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.Form1.resources
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.Properties.Resources.resources
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.csproj.GenerateResource.cache
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.csproj.CoreCompileInputs.cache
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.exe
+C:\Users\parfenov\Desktop\test\cubik\cubik\cubik\obj\Debug\cubik.pdb
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.csprojAssemblyReference.cache
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.Form1.resources
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.Properties.Resources.resources
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.csproj.GenerateResource.cache
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.csproj.CoreCompileInputs.cache
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.exe
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\obj\Debug\cubik.pdb
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\bin\Debug\cubik.exe.config
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\bin\Debug\cubik.exe
+C:\Users\parfenov\Desktop\файлы ППД\test\cubik\cubik\cubik\bin\Debug\cubik.pdb
